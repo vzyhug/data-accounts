@@ -1,37 +1,46 @@
-[
-  {
-    "name": "Nguyễn Văn A",
-    "email": "nguyenvana@example.com",
-    "password": "123abc"
-  },
-  {
-    "name": "Trần Thị B",
-    "email": "tranthib@example.com",
-    "password": "123abc"
-  },
-  {
-    "name": "Lê Hoàng C",
-    "email": "lehoangc@example.com",
-    "password": "123abc"
-  },
-  {
-    "name": "Phạm Văn D",
-    "email": "phamvand@example.com",
-    "password": "123abc"
-  },
-  {
-    "name": "Hoàng Thị E",
-    "email": "hoangthie@example.com",
-    "password": "123abc"
-  },
-  {
-    "name": "Vũ Quốc F",
-    "email": "vuquocf@example.com",
-    "password": "123abc"
-  },
-  {
-    "name": "Đặng Ngọc G",
-    "email": "dangngocg@example.com",
-    "password": "123abc"
-  }
-]
+{
+  "data-accounts": [
+    {
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "password": "123abc"
+    },
+    {
+      "id": "2",
+      "name": "Trần Thị B",
+      "email": "tranthib@example.com",
+      "password": "123abc"
+    },
+    {
+      "id": "3",
+      "name": "Lê Hoàng C",
+      "email": "lehoangc@example.com",
+      "password": "123abc"
+    },
+    {
+      "id": "4",
+      "name": "Phạm Văn D",
+      "email": "phamvand@example.com",
+      "password": "123abc"
+    },
+    {
+      "id": "5",
+      "name": "Hoàng Thị E",
+      "email": "hoangthie@example.com",
+      "password": "123abc"
+    },
+    {
+      "id": "6",
+      "name": "Vũ Quốc F",
+      "email": "vuquocf@example.com",
+      "password": "123abc"
+    },
+    {
+      "id": "7",
+      "name": "Đặng Ngọc G",
+      "email": "dangngocg@example.com",
+      "password": "123abc"
+    }
+  ]
+}
