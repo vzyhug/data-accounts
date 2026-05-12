@@ -1,46 +1,46 @@
 {
-  "data-accounts": [
+  "accounts": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Nguyễn Văn A",
       "email": "nguyenvana@example.com",
-      "password": "123abc"
+      "password": "Password123!"
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Trần Thị B",
       "email": "tranthib@example.com",
-      "password": "123abc"
+      "password": "SecurePass456$"
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Lê Hoàng C",
       "email": "lehoangc@example.com",
-      "password": "123abc"
+      "password": "MyFakePassword789"
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Phạm Văn D",
       "email": "phamvand@example.com",
-      "password": "123abc"
+      "password": "TestAccount@2026"
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Hoàng Thị E",
       "email": "hoangthie@example.com",
-      "password": "123abc"
+      "password": "DevPassWord#001"
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Vũ Quốc F",
       "email": "vuquocf@example.com",
-      "password": "123abc"
+      "password": "MockData!999"
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Đặng Ngọc G",
       "email": "dangngocg@example.com",
-      "password": "123abc"
+      "password": "DummyUser2026*"
     }
   ]
 }
