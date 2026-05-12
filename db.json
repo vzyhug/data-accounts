@@ -1,1 +1,37 @@
-
+[
+  {
+    "name": "Nguyễn Văn A",
+    "email": "nguyenvana@example.com",
+    "password": "Password123!"
+  },
+  {
+    "name": "Trần Thị B",
+    "email": "tranthib@example.com",
+    "password": "SecurePass456$"
+  },
+  {
+    "name": "Lê Hoàng C",
+    "email": "lehoangc@example.com",
+    "password": "MyFakePassword789"
+  },
+  {
+    "name": "Phạm Văn D",
+    "email": "phamvand@example.com",
+    "password": "TestAccount@2026"
+  },
+  {
+    "name": "Hoàng Thị E",
+    "email": "hoangthie@example.com",
+    "password": "DevPassWord#001"
+  },
+  {
+    "name": "Vũ Quốc F",
+    "email": "vuquocf@example.com",
+    "password": "MockData!999"
+  },
+  {
+    "name": "Đặng Ngọc G",
+    "email": "dangngocg@example.com",
+    "password": "DummyUser2026*"
+  }
+]
